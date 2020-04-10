@@ -144,3 +144,15 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* tablet media query */
+
+@media (max-width: 800px){
+
+}
+
+/* phone media query */
+
+@media (max-width:500px) {
+
+}
